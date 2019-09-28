@@ -5,7 +5,8 @@ import division
 
 #print("Enter 1 for sum \n Enter 2 for difference \n Enter 3 for product \n Enter 4 for division \n Enter 0 to exit")
 
-g = int(input("Enter 1 for sum \n Enter 2 for difference \n Enter 3 for product \n Enter 4 for division \n Enter 0 to exit"))
+#g = int(input("Enter 1 for sum \n Enter 2 for difference \n Enter 3 for product \n Enter 4 for division \n Enter 0 to exit"))
+g=2
 
 if g == 1 :
 	c = add.sum(5, 6) 
